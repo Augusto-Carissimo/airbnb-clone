@@ -7,7 +7,9 @@ const data = [
     stats: {
       rating: 5.0,
       reviewCount: 6
-    }
+    },
+    location: "Online",
+    openSpot: 0
   },
   {
     id:2,
@@ -17,7 +19,9 @@ const data = [
     stats: {
       rating: 5.0,
       reviewCount: 30
-    }
+    },
+    location: "Online",
+    openSpot: 27
   },
   {
     id:3,
@@ -27,7 +31,9 @@ const data = [
     stats: {
       rating: 4.8,
       reviewCount: 2
-    }
+    },
+    location: "Norway",
+    openSpot: 2
   }
 ]
 
