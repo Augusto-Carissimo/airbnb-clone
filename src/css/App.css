@@ -4,3 +4,8 @@
   flex-wrap: wrap;
   /* justify-content: space-between; */
 }
+
+.container {
+  display: grid;
+  justify-items: stretch
+}

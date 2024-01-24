@@ -14,7 +14,7 @@ function App() {
         />)
   })
   return(
-    <container>
+    <container className='container'>
       < Navbar />
       < Hero />
       <section className='card-list'>
