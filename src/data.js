@@ -34,7 +34,43 @@ const data = [
     },
     location: "Norway",
     openSpot: 2
-  }
+  },
+  {
+    id:4,
+    title: "Visit Mount Fuji",
+    price: 70,
+    coverImg: "Rectangle 77.png",
+    stats: {
+      rating: 3.8,
+      reviewCount: 7
+    },
+    location: "Japan",
+    openSpot: 2
+  },
+  {
+    id:5,
+    title: "Hike Geirangerfjord",
+    price: 30,
+    coverImg: "Rectangle 78.png",
+    stats: {
+      rating: 2.8,
+      reviewCount: 22
+    },
+    location: "Norway",
+    openSpot: 2
+  },
+  {
+    id:6,
+    title: "Recital at Sydney Opera House",
+    price: 150,
+    coverImg: "Rectangle 84.png",
+    stats: {
+      rating: 5.0,
+      reviewCount: 23
+    },
+    location: "Australia",
+    openSpot: 2
+  },
 ]
 
 export default data
